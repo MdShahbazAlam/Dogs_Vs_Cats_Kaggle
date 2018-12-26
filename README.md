@@ -8,3 +8,4 @@
 - Achieved an accuracy of 90.2% on validation data
 - Achieved a log_loss of 0.227 on validation data
 - Attempted improving accuracy with data augmentation
+- ABC
